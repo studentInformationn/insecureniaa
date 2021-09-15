@@ -1,0 +1,24 @@
+h1 {
+  padding-top: 21rem;
+  font-size: 50px;
+}
+
+body {
+  background-image: url(img/nia.jpg);
+  background-size: contain;
+  height: 1rem;
+}
+
+#nia {
+  margin-top: 34rem;
+  padding-top: 14rem;
+}
+
+#pertama {
+  margin-top: 34rem;
+}
+
+#kedua {
+  margin-top: 46rem;
+  padding-top: 19rem;
+}
